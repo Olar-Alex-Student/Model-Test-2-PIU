@@ -1,0 +1,11 @@
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\bin\Debug\Model-Test-2.2-PIU.exe.config
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\bin\Debug\Model-Test-2.2-PIU.exe
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\bin\Debug\Model-Test-2.2-PIU.pdb
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.csproj.AssemblyReference.cache
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.csproj.SuggestedBindingRedirects.cache
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model_Test_2._2_PIU.Form1.resources
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model_Test_2._2_PIU.Properties.Resources.resources
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.csproj.GenerateResource.cache
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.csproj.CoreCompileInputs.cache
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.exe
+D:\Model-Test-2.2-PIU\Model-Test-2.2-PIU\obj\Debug\Model-Test-2.2-PIU.pdb
